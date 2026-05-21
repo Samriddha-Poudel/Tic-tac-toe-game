@@ -19,6 +19,13 @@ const winpatterns =[
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
         console.log("box was clicked");
-        if()
-    })
-})
+        if(turn0){
+            box.innerText = "0";
+            turn0 = false;
+        } else {
+            box.innerHTML="X";
+            turn0 = true;
+        }
+        box.disabled = true;
+    });
+});
