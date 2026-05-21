@@ -53,3 +53,21 @@ body{
      border-radius:1rem;
      border:none;
 }
+
+#new-button{
+    padding:1rem;
+    font-size:1.20rem;
+    background-color:#191931;
+    color:#fff;
+    border-radius:1rem;
+    border:none;
+}
+
+#message{
+    color:#9C6644;
+    font-size:8vmin;
+}
+
+.message-container{
+    height:30vmin;
+}
