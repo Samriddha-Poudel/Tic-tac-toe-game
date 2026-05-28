@@ -8,6 +8,10 @@ or diagonaly.
 - CSS: CSS is used in this website to style html elements to add colors and make the page look good .
 - JS: JS is used in this project to add the logic of the game.
 
+# Note:
+This was mine starting project that i have deplyod my fourth project more specifically in beest i have deplyod all of mine project through netlify which i have sumbited and my free trail of netlify has been full of limit so my website is down in netlify so i have uploaded it from github pages so you can cehck it out from here .
+
+
 # How to use it :
-You just have to visit https://samriddha-tic-tac-toe.netlify.app/
+You just have to visit https://samriddha-poudel.github.io/Tic-tac-toe-game/ .
 
